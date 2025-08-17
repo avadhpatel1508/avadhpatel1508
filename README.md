@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avadhpatel1508E&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avadhpatel1508&theme=tokyonight" alt="streak" />
 </p>
 
 ---
@@ -70,6 +70,4 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/avadhpatel1508/count.svg" />
-</p>
+

@@ -41,7 +41,7 @@
 ## 🚀 Projects  
 
 🔹 [**CampusConnect**](https://github.com/yourusername/CampusConnect) – A campus-only networking & event app (MERN + Redis + Socket.IO)  
-🔹 [**Role-based Access MERN Project**](https://github.com/yourusername/project) – Mission creation, chat groups & live updates  
+🔹 [**AvengersNexus**](https://github.com/avadhpatel1508/AvengersNexus) – Captain assign mission, takes attendance and send salary to users  
 🔹 [**Arduino + Python Alert System**](https://github.com/yourusername/arduino-alert) – Ultrasonic sensor + Python email notifier  
 
 *(More on my [Repositories](https://github.com/yourusername?tab=repositories))*  

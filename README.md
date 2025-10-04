@@ -40,7 +40,6 @@
 
 ## 🚀 Projects  
 
-🔹 [**CampusConnect**](https://github.com/yourusername/CampusConnect) – A campus-only networking & event app (MERN + Redis + Socket.IO)  
 🔹 [**AvengersNexus**](https://github.com/avadhpatel1508/AvengersNexus) – Captain assigns a mission, takes attendance, and sends salary to users  
 🔹 [**To do app**](https://github.com/avadhpatel1508/to-do-dummy) – To do app with different sections of assignment, project, and quiz with a real-time remaining time display for each task.
 

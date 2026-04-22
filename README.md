@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Avadh Nandasana</h1>
-<h3 align="center">🚀 BTech CSE Student | MERN Stack Developer | AI & Blockchain Enthusiast</h3>
+<h3 align="center">🚀 BTech CSE Student | MERN Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Learner;Competitive+Programmer" />
@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me  
 - 🎓 3rd-year **Computer Science & Engineering** student  
 - 🌱 Currently learning **MERN Stack + AI**  
-- 💡 Interested in **Web Development, Blockchain, and Competitive Programming**  
+- 💡 Interested in **Web Development, and Competitive Programming**  
 - 💼 Open to collaboration on exciting projects  
 - ⚡ Fun fact: *I love turning ideas into real projects!*  
 
